@@ -1,6 +1,6 @@
 # MijnCBM templates
 
-Spreadsheet ten behoeve van het invullen van data in MijnCBM. Met deze spreadsheet kun je ING transactie data labelen met de categorien die door MijnCBM gebruikt worden. De sheet berekent dan de totalen per categorie.
+Spreadsheet ten behoeve van het invullen van data in MijnCBM. Met deze spreadsheet kun je ING transactie data labelen met de categorien die door [MijnCBM](https://www.rechtspraak.nl/onderwerpen/mijn-cbm) gebruikt worden. De sheet berekent dan de totalen per categorie.
 
 ## Stappen
 
